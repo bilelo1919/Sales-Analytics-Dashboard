@@ -9,12 +9,6 @@ Le dashboard propose des visualisations interactives et des indicateurs clés (K
 
 ---
 
-## 📁 Structure du projet
-- **data/** : fichier Excel utilisé pour l’analyse  
-- **dashboard/** : fichier Power BI (.pbix)  
-- **images/** : captures d’écran du dashboard  
-
----
 
 ## 📸 Aperçu du dashboard
 
