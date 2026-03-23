@@ -19,18 +19,18 @@ Le dashboard propose des visualisations interactives et des indicateurs clés (K
 ## 📸 Aperçu du dashboard
 
 ### 📊 Page 1 – Vue d’ensemble des ventes
-![Page 1](page1.png)
+<p align="center">
+  <img src="Page1.PNG" width="800" alt="">
+</p>
 
 Cette page affiche les KPI globaux tels que le chiffre d’affaires total et la moyenne des ventes, ainsi qu’un aperçu de la répartition des ventes.
 
 ---
 
 ### 📈 Page 2 – Analyse détaillée
-![Page 2](page2.png)
-
-Cette page fournit une analyse plus approfondie des ventes par pays, par produit et selon d’autres dimensions.
-
----
+<p align="center">
+  <img src="Page2.PNG" width="800" alt="">
+</p>
 
 ## 🚀 Fonctionnalités
 - Dashboard interactif  
